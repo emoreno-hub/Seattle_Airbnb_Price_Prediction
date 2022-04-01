@@ -1,1 +1,1 @@
-# Seattle_Airbnb_Price_Prediction
+# Seattle Airbnb Price Prediction
