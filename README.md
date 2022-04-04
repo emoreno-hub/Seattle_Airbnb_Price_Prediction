@@ -23,7 +23,11 @@ This project aims to solve this problem, by using machine learning to predict th
 
 ![](https://github.com/emoreno-hub/Seattle_Airbnb_Price_Prediction/blob/main/screenshots/Heatmap.PNG)
 
+## Baseline Model: Ordinary Least Squares Regression
+To serve as a baseline model before implementing machine learning models, I performed ordinary least squares regression to predict the price of a rental using a few selected features.  The independent features chosen for this model included whether the host is a superhost, number of bedrooms, number of bathrooms, number of reviews, and the review score value.
 ![](https://github.com/emoreno-hub/Seattle_Airbnb_Price_Prediction/blob/main/screenshots/OLS%20Regression.png)
 
 ## Model Evaluation
+Several regressors were tested and after evaluation, Random Forest and Multi-Layer Perceptron Neural Network performed the best.
 ![](https://github.com/emoreno-hub/Seattle_Airbnb_Price_Prediction/blob/main/screenshots/Predictions.PNG)
+
