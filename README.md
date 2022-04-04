@@ -30,6 +30,12 @@ A heatmap was created to visualize which features were correlated with price by 
 To serve as a baseline model before implementing machine learning models, I performed ordinary least squares regression to predict the price of a rental using a few selected features.  The independent features chosen for this model included whether the host is a superhost, number of bedrooms, number of bathrooms, number of reviews, and the review score value.
 ![](https://github.com/emoreno-hub/Seattle_Airbnb_Price_Prediction/blob/main/screenshots/OLS%20Regression.png)
 
+## Model Pipeline
+Data was split using an 80%-20% train-test split.  After splitting the data, the following was performed for each model:
+* A pipeline was built to standardize the data
+* Depending on the algorithm, polynomial features were added
+* 5-fold cross-validation was performed
+
 ## Model Evaluation
 Several regressors were tested and after evaluation, Random Forest and Multi-Layer Perceptron Neural Network performed the best.
 ![](https://github.com/emoreno-hub/Seattle_Airbnb_Price_Prediction/blob/main/screenshots/Predictions.PNG)
