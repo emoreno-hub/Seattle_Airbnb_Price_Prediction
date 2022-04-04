@@ -1,6 +1,6 @@
 # Seattle Airbnb Price Prediction
 
-![](https://github.com/emoreno-hub/Seattle_Airbnb_Price_Prediction/blob/main/screenshots/Airbnb-Plus-768x512.jpg | width=400)
+![](https://github.com/emoreno-hub/Seattle_Airbnb_Price_Prediction/blob/main/screenshots/Airbnb-Plus-768x512.jpg = 250x250)
 
 
 ## Project Motivation
