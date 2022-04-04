@@ -32,7 +32,7 @@ To serve as a baseline model before implementing machine learning models, I perf
 
 ## Model Pipeline
 Data was split using an 80%-20% train-test split.  After splitting the data, the following was performed for each model:
-* A pipeline was built to standardize the data
+* A pipeline was built to standardize the data using StandardScaler()
 * Depending on the algorithm, polynomial features were added
 * 5-fold cross-validation was performed
 
