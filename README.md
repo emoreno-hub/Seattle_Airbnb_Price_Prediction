@@ -19,3 +19,11 @@ This project aims to solve this problem, by using machine learning to predict th
 * Model evaluation
 * Model recommendation
 
+![](https://github.com/emoreno-hub/Seattle_Airbnb_Price_Prediction/blob/main/screenshots/Avg_Rental_Listing_Price.png)
+
+![](https://github.com/emoreno-hub/Seattle_Airbnb_Price_Prediction/blob/main/screenshots/Heatmap.PNG)
+
+![](https://github.com/emoreno-hub/Seattle_Airbnb_Price_Prediction/blob/main/screenshots/OLS%20Regression.png)
+
+## Model Evaluation
+![](https://github.com/emoreno-hub/Seattle_Airbnb_Price_Prediction/blob/main/screenshots/Predictions.PNG)
