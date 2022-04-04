@@ -21,6 +21,9 @@ This project aims to solve this problem, by using machine learning to predict th
 
 ![](https://github.com/emoreno-hub/Seattle_Airbnb_Price_Prediction/blob/main/screenshots/Avg_Rental_Listing_Price.png)
 
+## Correlation Heatmap Using R^2
+A heatmap was created to visualize which features were correlated with price by looking at the attributes of a host, a property, and a review. From the heatmap we can see that several features are highly correlated with a listing price (dependent variable) such as the number of guests a listing accomodates, the number of bedrooms, the number of beds, and the cleaning fee. We can see that some of the independent variables are correlated with one another which indicates multicollinearity. This can be seen when observing the relationship between beds and accomodates or beds and bedrooms or some of the review variables.
+
 ![](https://github.com/emoreno-hub/Seattle_Airbnb_Price_Prediction/blob/main/screenshots/Heatmap.PNG)
 
 ## Baseline Model: Ordinary Least Squares Regression
