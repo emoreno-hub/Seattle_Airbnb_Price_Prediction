@@ -1,6 +1,6 @@
 # Seattle Airbnb Price Prediction
 
-placeholder for airbnb
+![alt text](https://github.com/emoreno-hub/Seattle_Airbnb_Price_Prediction/blob/main/screenshots/Airbnb-Plus-768x512.jpg)
 
 
 ## Project Motivation
